@@ -1,4 +1,4 @@
-📊 Sales Insights Dashboard & Business Analytics
+📊 Sales Insights Dashboard & Business Analysis
 
 An interactive Power BI dashboard that provides actionable insights into sales performance, revenue trends, customer behavior, and market opportunities across different regions, products, and customer segments.
 
