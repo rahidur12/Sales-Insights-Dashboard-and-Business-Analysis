@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that provides actionable insights into sales performance, revenue trends, customer behavior, and market opportunities across different regions, products, and customer segments.
 
-📌 Live Project Dashboard: https://app.powerbi.com/links/OMUonnuJ8G?ctid=678c052f-33c4-475b-b599-bcc8732006df&pbi_source=linkShare
+📌 Drive Link: https://drive.google.com/drive/folders/1ljSG8fa3Pet1rGmzf_v4KZNGde_Yta_3?usp=sharing
 
 🧠 Project Overview
 
